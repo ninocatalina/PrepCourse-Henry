@@ -1,0 +1,11 @@
+Crear repositorio Remoto
+    1. Crear carpeta en Github
+    2. Pegar SSH 
+    3. En la carpeta local git remote add origin url
+    4. verificar: git remote -v 
+Desde terminal local
+    git pull origin main
+    git branch -m main
+    git push origin main
+Parametros de configuracion
+    git config -l 
